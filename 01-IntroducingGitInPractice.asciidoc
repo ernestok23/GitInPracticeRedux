@@ -8,3 +8,4 @@ another change for the same T.9, p.33 just to try git diff origin/master
 p.35, T.10 change to test git fetch
 
 p.44 T.14 chahnge from chapter-two branch
+11-11-17 change after stash
