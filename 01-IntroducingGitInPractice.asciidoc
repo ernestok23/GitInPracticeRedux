@@ -21,3 +21,5 @@ EXTRA2
 
 
 and now for something completely different
+test ls-files -v
+git ls-files -m
