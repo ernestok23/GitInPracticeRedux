@@ -23,3 +23,7 @@ EXTRA2
 and now for something completely different
 test ls-files -v
 git ls-files -m
+	>> Mongo was here
+	>> leaving traces
+p.76, T31 showing who last changed a file	... and here too
+
