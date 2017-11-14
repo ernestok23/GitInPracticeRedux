@@ -35,6 +35,12 @@ p.85
 =======
 From the separate-files branch
 
+*****************************************************************
+# a change from master prior to the changes from test to force the use of mergetool
+# it doesn;t fire unless there are merge conflicts
+*****************************************************************
+
+
 # make another change from test prior to the original change
 # make a change from test
 
