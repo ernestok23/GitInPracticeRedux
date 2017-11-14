@@ -40,6 +40,7 @@ From the separate-files branch
 # it doesn;t fire unless there are merge conflicts
 *****************************************************************
 
+a change from maste after the change from test-again
 
 # make another change from test prior to the original change
 # make a change from test
