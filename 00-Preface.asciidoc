@@ -1,8 +1,6 @@
 = Git In Practice
 // TODO: write book
-Mor content for Chapter 1
 p.11 change
-
 
 p.33 change for T.9
 another change for the same T.9, p.33 just to try git diff origin/master
@@ -31,7 +29,4 @@ p.76, T31 showing who last changed a file	... and here too
 ----------------------------------------------------------------
 Chapter 5
 p.85
-
-=======
-From the separate-files branch
 
