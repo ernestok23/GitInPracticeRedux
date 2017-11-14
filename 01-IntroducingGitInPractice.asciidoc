@@ -2,31 +2,3 @@
 // TODO: write book
 p.11 change
 
-p.33 change for T.9
-another change for the same T.9, p.33 just to try git diff origin/master
-
-p.35, T.10 change to test git fetch
-
-p.44 T.14 chahnge from chapter-two branch
-# Up above is the file as it was since the last commit prior to stashing <<<<<<< Updated upstream
-# and the line below is the 'fix' after the stash
-11-11-17 change after stash
-=======
-EXTRA
-EXTRA2
-11-11-17 test on gitk and git diff
-# The lines above until the ===== are the uncommited shashed chnges >>>>>>> Stashed changes
-# I keep the merge conflict to show you, what was and the changes for the fix, thets stashed changes
-# and the resolution -this state of the file
-
-
-and now for something completely different
-test ls-files -v
-git ls-files -m
-	>> Mongo was here
-	>> leaving traces
-p.76, T31 showing who last changed a file	... and here too
-----------------------------------------------------------------
-Chapter 5
-p.85
-
